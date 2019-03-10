@@ -41,19 +41,6 @@ Github : {}https://github.com/rianwk{}
 [4] Auto Friend Requests
 """.format(green,normal,green,normal)
 
-banner = """
-##############################
-# FLYME  : 6.2.0.0G          #
-# DIBUAT : 22-Februari-2019  #
-# TTD    : RIANWK            #
-##############################
-
-Author : {}RIANWK{}                                                                     
-Facebook : {}RianWk{}
-Github : {}https://github.com/rianwk{}
-""".format(green,normal,cyan,normal,green,normal)
-###
-
 
 br = mechanize.Browser()
 br.set_handle_robots(False)
